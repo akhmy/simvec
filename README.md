@@ -126,7 +126,7 @@ test/            — интеграционные тесты
 
 ## Запуск
 
-Образ опубликован на Docker Hub: [TODO: dockerhub-link]
+Образ [опубликован на Docker Hub](https://hub.docker.com/repository/docker/akhmy/vecrec-core/general).
 
 Минимальный пример запуска (требуется доступный ClickHouse):
 
