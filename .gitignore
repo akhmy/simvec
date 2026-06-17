@@ -1,0 +1,6 @@
+/tmp
+
+.golangci.yml
+.env
+.air.toml
+Dockerfile.test
